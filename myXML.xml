@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<x:root xmlns:x="http://www.shemesh.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.shemesh.com myXSD.xsd">
+		<x:lastname>Shemesh</x:lastname>
+		<x:age>29</x:age>
+		<x:dateborn>1985-01-01</x:dateborn>
+		<hello></hello>
+</x:root>
